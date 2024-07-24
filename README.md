@@ -1,7 +1,7 @@
 ## portfolio
 RICHARD'S PORTFOLIO
 
-## UI/UX Portfolio
+## UIUX Portfolio
 Welcome to my UI/UX portfolio! I'm Richard Adesoye, a passionate designer dedicated to creating intuitive and visually appealing user experiences.
 
 ## About Me
